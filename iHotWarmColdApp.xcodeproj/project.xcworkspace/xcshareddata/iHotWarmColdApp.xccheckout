@@ -10,29 +10,41 @@
 	<string>iHotWarmColdApp</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>34D357B0-9B21-4AD7-A936-000E2A03C4B1</key>
+		<key>A4AC2383CC5613F867FD09F2981D0A7D45D85536</key>
+		<string>https://github.com/iansystdev/ARAW.git</string>
+		<key>CDA1EB6C38AD2191875F0E6CA7548067F57D78D0</key>
 		<string>https://github.com/KarlNosworthy/ihotwarmcold.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>iHotWarmColdApp.xcodeproj/project.xcworkspace</string>
+	<string>iHotWarmColdApp.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>34D357B0-9B21-4AD7-A936-000E2A03C4B1</key>
+		<key>A4AC2383CC5613F867FD09F2981D0A7D45D85536</key>
+		<string>../../..</string>
+		<key>CDA1EB6C38AD2191875F0E6CA7548067F57D78D0</key>
 		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
 	<string>https://github.com/KarlNosworthy/ihotwarmcold.git</string>
 	<key>IDESourceControlProjectVersion</key>
-	<integer>110</integer>
+	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>34D357B0-9B21-4AD7-A936-000E2A03C4B1</string>
+	<string>CDA1EB6C38AD2191875F0E6CA7548067F57D78D0</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>34D357B0-9B21-4AD7-A936-000E2A03C4B1</string>
+			<string>A4AC2383CC5613F867FD09F2981D0A7D45D85536</string>
+			<key>IDESourceControlWCCName</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>CDA1EB6C38AD2191875F0E6CA7548067F57D78D0</string>
 			<key>IDESourceControlWCCName</key>
 			<string>ihotwarmcold</string>
 		</dict>

@@ -46,9 +46,11 @@
 		5152EDFD1903DD8C00DA4D7E /* ESTBeaconDefinitions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ESTBeaconDefinitions.h; sourceTree = "<group>"; };
 		5152EDFE1903DD8C00DA4D7E /* ESTBeaconManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ESTBeaconManager.h; sourceTree = "<group>"; };
 		5152EDFF1903DD8C00DA4D7E /* ESTBeaconRegion.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ESTBeaconRegion.h; sourceTree = "<group>"; };
-		5152EE001903DD8C00DA4D7E /* ESTBeaconUpdateInfo.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ESTBeaconUpdateInfo.h; sourceTree = "<group>"; };
 		5152EE011903DD8C00DA4D7E /* libEstimoteSDK.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; path = libEstimoteSDK.a; sourceTree = "<group>"; };
 		519CC2491903DF420014AE58 /* icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = icon.png; path = iHotWarmColdApp/icon.png; sourceTree = "<group>"; };
+		51BE063119F580AE00455EB6 /* ESTBeaconFirmwareInfoVO.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ESTBeaconFirmwareInfoVO.h; sourceTree = "<group>"; };
+		51BE063219F580AE00455EB6 /* ESTBeaconFirmwareVO.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ESTBeaconFirmwareVO.h; sourceTree = "<group>"; };
+		51BE063319F580AE00455EB6 /* ESTBeaconVO.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ESTBeaconVO.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -131,11 +133,13 @@
 		5152EDFB1903DD8C00DA4D7E /* Headers */ = {
 			isa = PBXGroup;
 			children = (
+				51BE063119F580AE00455EB6 /* ESTBeaconFirmwareInfoVO.h */,
+				51BE063219F580AE00455EB6 /* ESTBeaconFirmwareVO.h */,
+				51BE063319F580AE00455EB6 /* ESTBeaconVO.h */,
 				5152EDFC1903DD8C00DA4D7E /* ESTBeacon.h */,
 				5152EDFD1903DD8C00DA4D7E /* ESTBeaconDefinitions.h */,
 				5152EDFE1903DD8C00DA4D7E /* ESTBeaconManager.h */,
 				5152EDFF1903DD8C00DA4D7E /* ESTBeaconRegion.h */,
-				5152EE001903DD8C00DA4D7E /* ESTBeaconUpdateInfo.h */,
 			);
 			path = Headers;
 			sourceTree = "<group>";
