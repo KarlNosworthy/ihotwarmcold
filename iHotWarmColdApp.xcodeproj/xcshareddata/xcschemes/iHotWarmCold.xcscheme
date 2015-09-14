@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Scheme
-   LastUpgradeVersion = "0510"
+   LastUpgradeVersion = "0640"
    version = "1.3">
    <BuildAction
       parallelizeBuildables = "YES"
@@ -17,7 +17,7 @@
                BlueprintIdentifier = "51489EEA19009C6F00C86681"
                BuildableName = "iHotWarmCold.app"
                BlueprintName = "iHotWarmCold"
-               ReferencedContainer = "container:iHotWarmCold.xcodeproj">
+               ReferencedContainer = "container:iHotWarmColdApp.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -28,16 +28,6 @@
       shouldUseLaunchSchemeArgsEnv = "YES"
       buildConfiguration = "Debug">
       <Testables>
-         <TestableReference
-            skipped = "NO">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "51489F0E19009C6F00C86681"
-               BuildableName = "iHotWarmColdTests.xctest"
-               BlueprintName = "iHotWarmColdTests"
-               ReferencedContainer = "container:iHotWarmCold.xcodeproj">
-            </BuildableReference>
-         </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
@@ -84,7 +74,7 @@
             BlueprintIdentifier = "51489EEA19009C6F00C86681"
             BuildableName = "iHotWarmCold.app"
             BlueprintName = "iHotWarmCold"
-            ReferencedContainer = "container:iHotWarmCold.xcodeproj">
+            ReferencedContainer = "container:iHotWarmColdApp.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
